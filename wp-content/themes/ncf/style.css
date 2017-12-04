@@ -20,11 +20,6 @@ _s (or Underscores) http://underscores.me/, (C) 2012-2013 Automattic, Inc. Twitt
 
 */
 
-/* Import the necessary TK Bootstrap WP CSS additions */
-@import url( includes/css/bootstrap-wp.css );
-
-
-
 /* My Minimal WordPress Styling comes here */
 
 /* This is a small security for too long strings titles */
